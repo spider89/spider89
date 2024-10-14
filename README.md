@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Sopra Steria
-- 🌱 I’m currently learning Learning Git and Github
+- 🌱 I’m currently learning Git and Github
 - 👯 I’m looking to collaborate on anything fun 
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about Travelling
